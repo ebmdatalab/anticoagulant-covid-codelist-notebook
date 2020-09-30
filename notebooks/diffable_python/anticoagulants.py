@@ -92,17 +92,15 @@ sql = '''WITH bnf_codes AS (
 bnf_code LIKE '0208020%'  #BNF section anticoagulants - oral
 )
 
-SELECT "vmp" AS type, id, bnf_code, nm
-FROM dmd.vmp
-WHERE bnf_code IN (SELECT * FROM bnf_codes)
+SELECT *
+FROM measures.dmd_objs_with_form_route
+WHERE bnf_code IN (SELECT * FROM bnf_codes) 
+AND 
+obj_type IN ('vmp', 'amp')
+AND
+form_route LIKE '%.oral%' 
+ORDER BY obj_type, bnf_code, snomed_id'''
 
-UNION ALL
-
-SELECT "amp" AS type, id, bnf_code, descr
-FROM dmd.amp
-WHERE bnf_code IN (SELECT * FROM bnf_codes)
-
-ORDER BY type, nm, bnf_code, id'''
 
 oral_anticoagulant_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','oral_anticoagulant_codelist.csv'))
 pd.set_option('display.max_rows', None)
@@ -166,6 +164,6 @@ doac_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','doac_code
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
 doac_codelist
-# -
+# +
 
 
