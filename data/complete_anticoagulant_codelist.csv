@@ -1,0 +1,429 @@
+type,id,bnf_code,nm,chemical
+amp,9032811000001109,0208020W0BCAAA0,Alere INRatio testing strips (Alere Ltd),INR blood testing reagents
+amp,3937811000001104,0208010B0BBAAAA,"Alphaparin 3,000units/0.3ml solution for injection pre-filled syringes (Grifols UK Ltd)",Certoparin sodium sodium
+amp,13565111000001103,0208010ABBBAEAE,Arixtra 1.5mg/0.3ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium
+amp,9206111000001104,0208010ABBBADAD,Arixtra 10mg/0.8ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium
+amp,4332811000001106,0208010ABBBAAAA,Arixtra 2.5mg/0.5ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium
+amp,9205511000001101,0208010ABBBABAB,Arixtra 5mg/0.4ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium
+amp,9205811000001103,0208010ABBBACAC,Arixtra 7.5mg/0.6ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium
+amp,35566911000001104,0208010D0BEAEAE,Arovi 100mg/1ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35559211000001107,0208010D0BEAGAF,Arovi 120mg/0.8ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35559411000001106,0208010D0BEAFAG,Arovi 150mg/1ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35569511000001101,0208010D0BEAAAA,Arovi 20mg/0.2ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35569011000001109,0208010D0BEABAB,Arovi 40mg/0.4ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35568611000001106,0208010D0BEACAC,Arovi 60mg/0.6ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35567911000001101,0208010D0BEADAD,Arovi 80mg/0.8ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,4908311000001103,0208010N0BBADAH,"Calciparine 12,500units/0.5ml solution for injection pre-filled syringes (Sanofi)",Heparin calcium
+amp,4188111000001102,0208010N0BBAAAF,"Calciparine 5,000units/0.2ml solution for injection pre-filled syringes (Sanofi-Synthelabo Ltd)",Heparin calcium
+amp,3854011000001105,0208010P0BBAAAB,Canusal 200units/2ml patency solution ampoules (Wockhardt UK Ltd),Heparin flushes
+amp,4199111000001108,0208010D0BBAEAE,Clexane 100mg/1ml solution for injection pre-filled syringes (Sanofi),Enoxaparin
+amp,3826311000001101,0208010D0BBAAAA,Clexane 20mg/0.2ml solution for injection pre-filled syringes (Sanofi),Enoxaparin
+amp,11507011000001102,0208010D0BBAHAH,Clexane 300mg/3ml solution for injection multidose vials (Sanofi),Enoxaparin
+amp,3825411000001104,0208010D0BBABAB,Clexane 40mg/0.4ml solution for injection pre-filled syringes (Sanofi),Enoxaparin
+amp,4199811000001101,0208010D0BBACAC,Clexane 60mg/0.6ml solution for injection pre-filled syringes (Sanofi),Enoxaparin
+amp,4199511000001104,0208010D0BBADAD,Clexane 80mg/0.8ml solution for injection pre-filled syringes (Sanofi),Enoxaparin
+amp,4198711000001100,0208010D0BBAFAF,Clexane Forte 120mg/0.8ml solution for injection pre-filled syringes (Sanofi),Enoxaparin
+amp,4198211000001107,0208010D0BBAGAG,Clexane Forte 150mg/1ml solution for injection pre-filled syringes (Sanofi),Enoxaparin
+amp,5003611000001104,0208010AABBAAAA,"Clivarine 1,432units/0.25ml solution for injection pre-filled syringes (Valeant Pharmaceuticals Ltd)",Reviparin sodium
+amp,33479111000001102,0208020W0BBACA0,CoaguChek PT Test testing strips 06688721 (Roche Diagnostics Ltd),INR blood testing reagents
+amp,854311000001103,0208020W0BBAAA0,CoaguChek PT testing strips (Roche Diagnostics Ltd),INR blood testing reagents
+amp,34209311000001107,0208020W0BBADA0,CoaguChek XS PT Test PST testing strips 07671687019 (Roche Diagnostics Ltd),INR blood testing reagents
+amp,10186011000001104,0208020W0BBABA0,CoaguChek XS PT testing strips (Roche Diagnostics Ltd),INR blood testing reagents
+amp,18509011000001102,0208020V0BDAAAC,Coumadin 4mg tablets (Imported (Canada)),Warfarin sodium
+amp,9053111000001107,020802000AAAAAA,Coumarin 100mg capsules (Special Order),Other oral anticoagulant preparations
+amp,33427611000001104,0208010C0AAAAAA,Danaparoid sodium 750units/0.6ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),Danaparoid sodium
+amp,32754811000001107,0208010C0AAAAAA,Danaparoid sodium 750units/0.6ml solution for injection ampoules (Aspen Pharma Trading Ltd),Danaparoid sodium
+amp,19506911000001105,0208020Z0BBAAAA,Eliquis 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Apixaban
+amp,21677511000001105,0208020Z0BBABAB,Eliquis 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Apixaban
+amp,35654611000001103,0208020I0BEACAG,Elmiron 100mg capsules (Consilient Health Ltd),Pentosan polysulfate sodium
+amp,23669711000001108,0208020I0BEABAG,Elmiron 100mg capsules (Imported (United States)),Pentosan polysulfate sodium
+amp,35749911000001102,0208020I0BEADAG,Elmiron 100mg capsules (Sovereign Medical Ltd),Pentosan polysulfate sodium
+amp,10478111000001107,0208020I0BEAAAG,Elmiron 100mg capsules (Teva UK Ltd),Pentosan polysulfate sodium
+amp,35084011000001109,0208010D0BDAEAE,Enoxaparin Becat 100mg/1ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35083211000001102,0208010D0BDAAAA,Enoxaparin Becat 20mg/0.2ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35083411000001103,0208010D0BDABAB,Enoxaparin Becat 40mg/0.4ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35083611000001100,0208010D0BDACAC,Enoxaparin Becat 60mg/0.6ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,35083811000001101,0208010D0BDADAD,Enoxaparin Becat 80mg/0.8ml solution for injection pre-filled syringes (ROVI Biotech Ltd),Enoxaparin
+amp,38011311000001101,0208010E0AAADAD,Epoprostenol 1.5mg powder (pH12) for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.),Epoprostenol sodium
+amp,37367211000001106,0208010E0AAABAB,Epoprostenol 1.5mg powder and solvent (pH10.5) for solution for infusion vials (Advanz Pharma),Epoprostenol sodium
+amp,24506811000001100,0208010E0AAABAB,Epoprostenol 1.5mg powder and solvent (pH10.5) for solution for infusion vials (Sandoz Ltd),Epoprostenol sodium
+amp,38011111000001103,0208010E0AAACAC,Epoprostenol 500microgram powder (pH12) for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.),Epoprostenol sodium
+amp,37366211000001109,0208010E0AAAAAA,Epoprostenol 500microgram powder and solvent (pH10.5) for solution for infusion vials (Advanz Pharma),Epoprostenol sodium
+amp,24506611000001104,0208010E0AAAAAA,Epoprostenol 500microgram powder and solvent (pH10.5) for solution for infusion vials (Sandoz Ltd),Epoprostenol sodium
+amp,10475411000001107,0208020I0BBAAAB,Fibrase 50mg capsules (Imported (Italy)),Pentosan polysulfate sodium
+amp,4627711000001106,0208010E0BBABAB,Flolan 1.5mg powder and solvent (pH10.5) for solution for infusion vials (GlaxoSmithKline UK Ltd),Epoprostenol sodium
+amp,33592511000001102,0208010E0BBACAE,Flolan 1.5mg powder and solvent (pH12) for solution for infusion vials (GlaxoSmithKline UK Ltd),Epoprostenol sodium
+amp,4627411000001100,0208010E0BBAAAA,Flolan 500microgram powder and solvent (pH10.5) for solution for infusion vials (GlaxoSmithKline UK Ltd),Epoprostenol sodium
+amp,33593311000001103,0208010E0BBADAF,Flolan 500microgram powder and solvent (pH12) for solution for infusion vials (GlaxoSmithKline UK Ltd),Epoprostenol sodium
+amp,32485411000001106,0208010ABAAADAD,Fondaparinux sodium 10mg/0.8ml solution for injection pre-filled syringes (Dr Reddy's Laboratories (UK) Ltd),Fondaparinux sodium
+amp,32484811000001107,0208010ABAAAAAA,Fondaparinux sodium 2.5mg/0.5ml solution for injection pre-filled syringes (Dr Reddy's Laboratories (UK) Ltd),Fondaparinux sodium
+amp,32485011000001102,0208010ABAAABAB,Fondaparinux sodium 5mg/0.4ml solution for injection pre-filled syringes (Dr Reddy's Laboratories (UK) Ltd),Fondaparinux sodium
+amp,35215411000001107,0208010ABAAACAC,Fondaparinux sodium 7.5mg/0.6ml solution for injection pre-filled syringes (A A H Pharmaceuticals Ltd),Fondaparinux sodium
+amp,32485211000001107,0208010ABAAACAC,Fondaparinux sodium 7.5mg/0.6ml solution for injection pre-filled syringes (Dr Reddy's Laboratories (UK) Ltd),Fondaparinux sodium
+amp,3967611000001107,0208010L0BBAFAF,"Fragmin 10,000units/0.4ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium
+amp,3968911000001100,0208010L0BBAAAC,"Fragmin 10,000units/1ml solution for injection ampoules (Pfizer Ltd)",Dalteparin sodium
+amp,3970311000001105,0208010L0BBAJAJ,"Fragmin 10,000units/1ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium
+amp,3969411000001100,0208010L0BBADAD,"Fragmin 10,000units/4ml solution for injection ampoules (Pfizer Ltd)",Dalteparin sodium
+amp,3970611000001100,0208010L0BBAEAE,"Fragmin 100,000units/4ml solution for injection vials (Pfizer Ltd)",Dalteparin sodium
+amp,3838711000001100,0208010L0BBAGAG,"Fragmin 12,500units/0.5ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium
+amp,3968311000001101,0208010L0BBAHAH,"Fragmin 15,000units/0.6ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium
+amp,3968611000001106,0208010L0BBAIAI,"Fragmin 18,000units/0.72ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium
+amp,3840411000001109,0208010L0BBACAA,"Fragmin 2,500units/0.2ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium
+amp,3723611000001103,0208010L0BBABAB,"Fragmin 5,000units/0.2ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium
+amp,4864211000001108,0208010L0BBAKAK,"Fragmin 7,500units/0.3ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium
+amp,15150111000001100,0208010N0AAABAB,"Heparin calcium 5,000units/0.2ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin calcium
+amp,10359611000001101,0208010N0AAABAB,"Heparin calcium 5,000units/0.2ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin calcium
+amp,15150311000001103,0208010K0AAA7A7,"Heparin sodium 1,000units/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,10358011000001103,0208010K0AAA7A7,"Heparin sodium 1,000units/1ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,7387811000001108,0208010K0AAA2A2,"Heparin sodium 10,000units/10ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,18254911000001103,0208010K0AAA2A2,"Heparin sodium 10,000units/10ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)",Heparin sodium
+amp,23870711000001102,0208010K0AAA2A2,"Heparin sodium 10,000units/10ml solution for injection ampoules (Kent Pharmaceuticals Ltd)",Heparin sodium
+amp,7313611000001104,0208010K0AAA2A2,"Heparin sodium 10,000units/10ml solution for injection ampoules (LEO Pharma)",Heparin sodium
+amp,10358411000001107,0208010K0AAA2A2,"Heparin sodium 10,000units/10ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,18676411000001103,0208010K0AABJBJ,Heparin sodium 100units/1ml solution for injection ampoules (Special Order),Heparin sodium
+amp,13616511000001105,0208010K0AAA6A6,"Heparin sodium 125,000units/5ml solution for injection vials (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,15928211000001106,0208010K0AAA6A6,"Heparin sodium 125,000units/5ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)",Heparin sodium
+amp,7307111000001102,0208010K0AAA6A6,"Heparin sodium 125,000units/5ml solution for injection vials (LEO Pharma)",Heparin sodium
+amp,10357811000001105,0208010K0AAA6A6,"Heparin sodium 125,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium
+amp,7388211000001106,0208010K0AAAZAZ,"Heparin sodium 20,000units/20ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,18255111000001102,0208010K0AAAZAZ,"Heparin sodium 20,000units/20ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)",Heparin sodium
+amp,23867311000001109,0208010K0AAAZAZ,"Heparin sodium 20,000units/20ml solution for injection ampoules (Kent Pharmaceuticals Ltd)",Heparin sodium
+amp,7313811000001100,0208010K0AAAZAZ,"Heparin sodium 20,000units/20ml solution for injection ampoules (LEO Pharma)",Heparin sodium
+amp,10358611000001105,0208010K0AAAZAZ,"Heparin sodium 20,000units/20ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,7306011000001101,0208010P0AAABAB,Heparin sodium 200units/2ml I.V. flush solution ampoules (LEO Pharma),Heparin flushes
+amp,14769711000001102,0208010P0AAABAB,Heparin sodium 200units/2ml I.V. flush solution ampoules (Wockhardt UK Ltd),Heparin flushes
+amp,7387411000001106,0208010P0AAABAB,Heparin sodium 200units/2ml patency solution ampoules (A A H Pharmaceuticals Ltd),Heparin flushes
+amp,15709211000001101,0208010P0AAABAB,Heparin sodium 200units/2ml patency solution ampoules (Alliance Healthcare (Distribution) Ltd),Heparin flushes
+amp,15150511000001109,0208010K0AABFBF,"Heparin sodium 25,000units/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,10359211000001103,0208010K0AABFBF,"Heparin sodium 25,000units/1ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,15509611000001103,0208010K0AABCBC,"Heparin sodium 25,000units/5ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,33738311000001104,0208010K0AABCBC,"Heparin sodium 25,000units/5ml solution for injection ampoules (Panpharma UK Ltd)",Heparin sodium
+amp,10359011000001108,0208010K0AABCBC,"Heparin sodium 25,000units/5ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,13616311000001104,0208010K0AAA5A5,"Heparin sodium 25,000units/5ml solution for injection vials (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,15928411000001105,0208010K0AAA5A5,"Heparin sodium 25,000units/5ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)",Heparin sodium
+amp,7306811000001107,0208010K0AAA5A5,"Heparin sodium 25,000units/5ml solution for injection vials (LEO Pharma)",Heparin sodium
+amp,38566711000001107,0208010K0AAA5A5,"Heparin sodium 25,000units/5ml solution for injection vials (Panpharma UK Ltd)",Heparin sodium
+amp,10357611000001106,0208010K0AAA5A5,"Heparin sodium 25,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium
+amp,15150711000001104,0208010K0AAALAL,"Heparin sodium 5,000units/0.2ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,10359411000001104,0208010K0AAALAL,"Heparin sodium 5,000units/0.2ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,15509411000001101,0208010K0AAA9A9,"Heparin sodium 5,000units/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,10358811000001109,0208010K0AAA9A9,"Heparin sodium 5,000units/1ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,7387611000001109,0208010K0AAA8A8,"Heparin sodium 5,000units/5ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,18254711000001100,0208010K0AAA8A8,"Heparin sodium 5,000units/5ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd)",Heparin sodium
+amp,23871311000001106,0208010K0AAA8A8,"Heparin sodium 5,000units/5ml solution for injection ampoules (Kent Pharmaceuticals Ltd)",Heparin sodium
+amp,7313411000001102,0208010K0AAA8A8,"Heparin sodium 5,000units/5ml solution for injection ampoules (LEO Pharma)",Heparin sodium
+amp,10358211000001108,0208010K0AAA8A8,"Heparin sodium 5,000units/5ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,13616111000001101,0208010K0AAA4A4,"Heparin sodium 5,000units/5ml solution for injection vials (A A H Pharmaceuticals Ltd)",Heparin sodium
+amp,15928011000001101,0208010K0AAA4A4,"Heparin sodium 5,000units/5ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)",Heparin sodium
+amp,7306511000001109,0208010K0AAA4A4,"Heparin sodium 5,000units/5ml solution for injection vials (LEO Pharma)",Heparin sodium
+amp,10357411000001108,0208010K0AAA4A4,"Heparin sodium 5,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium
+amp,7306311000001103,0208010P0AAADAD,Heparin sodium 50units/5ml I.V. flush solution ampoules (LEO Pharma),Heparin flushes
+amp,14769911000001100,0208010P0AAADAD,Heparin sodium 50units/5ml I.V. flush solution ampoules (Wockhardt UK Ltd),Heparin flushes
+amp,7387211000001107,0208010P0AAADAD,Heparin sodium 50units/5ml patency solution ampoules (A A H Pharmaceuticals Ltd),Heparin flushes
+amp,15708811000001107,0208010P0AAADAD,Heparin sodium 50units/5ml patency solution ampoules (Alliance Healthcare (Distribution) Ltd),Heparin flushes
+amp,4020411000001105,0208010P0BDAAAD,Hepsal 50units/5ml patency solution ampoules (Wockhardt UK Ltd),Heparin flushes
+amp,34701011000001102,0208010D0BCAEAE,Inhixa 100mg/1ml solution for injection pre-filled syringes (Techdow Pharma England Ltd),Enoxaparin
+amp,36784211000001100,0208010D0BCAFAF,Inhixa 120mg/0.8ml solution for injection pre-filled syringes (Techdow Pharma England Ltd),Enoxaparin
+amp,36784411000001101,0208010D0BCAGAG,Inhixa 150mg/1ml solution for injection pre-filled syringes (Techdow Pharma England Ltd),Enoxaparin
+amp,34699911000001109,0208010D0BCAAAA,Inhixa 20mg/0.2ml solution for injection pre-filled syringes (Techdow Pharma England Ltd),Enoxaparin
+amp,38232211000001100,0208010D0BCAHAH,Inhixa 300mg/3ml solution for injection multidose vials (Techdow Pharma England Ltd),Enoxaparin
+amp,34700211000001101,0208010D0BCABAB,Inhixa 40mg/0.4ml solution for injection pre-filled syringes (Techdow Pharma England Ltd),Enoxaparin
+amp,34700511000001103,0208010D0BCACAC,Inhixa 60mg/0.6ml solution for injection pre-filled syringes (Techdow Pharma England Ltd),Enoxaparin
+amp,34700811000001100,0208010D0BCADAD,Inhixa 80mg/0.8ml solution for injection pre-filled syringes (Techdow Pharma England Ltd),Enoxaparin
+amp,3918011000001100,0208010W0BCAGAK,"Innohep 10,000units/0.5ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,28499911000001109,0208010W0BCAMAS,"Innohep 12,000units/0.6ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,3919011000001105,0208010W0BCAEAI,"Innohep 14,000units/0.7ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,28498711000001103,0208010W0BCALAR,"Innohep 16,000units/0.8ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,3920011000001106,0208010W0BCAFAJ,"Innohep 18,000units/0.9ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,4120211000001102,0208010W0BCAKAQ,"Innohep 2,500units/0.25ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,4121311000001100,0208010W0BCAJAN,"Innohep 20,000units/2ml solution for injection vials (LEO Pharma)",Tinzaparin sodium
+amp,3916311000001101,0208010W0BCAHAL,"Innohep 3,500units/0.35ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,4120611000001100,0208010W0BCAIAM,"Innohep 4,500units/0.45ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,4121711000001101,0208010W0BCACAF,"Innohep 40,000units/2ml solution for injection vials (LEO Pharma)",Tinzaparin sodium
+amp,28501011000001100,0208010W0BCANAT,"Innohep 8,000units/0.4ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,29902111000001100,0208020AABBAAAA,Lixiana 15mg tablets (Daiichi Sankyo UK Ltd),Edoxaban
+amp,29902411000001105,0208020AABBABAB,Lixiana 30mg tablets (Daiichi Sankyo UK Ltd),Edoxaban
+amp,29902711000001104,0208020AABBACAC,Lixiana 60mg tablets (Daiichi Sankyo UK Ltd),Edoxaban
+amp,24226511000001103,0208020S0BBAAAA,Marcoumar 3mg tablets (Imported (Germany)),Phenprocoumon
+amp,933311000001105,0208020V0BBAAAA,Marevan 1mg tablets (Advanz Pharma),Warfarin sodium
+amp,284011000001104,0208020V0BBABAB,Marevan 3mg tablets (Advanz Pharma),Warfarin sodium
+amp,204811000001109,0208020V0BBAFAS,Marevan 500microgram tablets (Advanz Pharma),Warfarin sodium
+amp,461911000001100,0208020V0BBACAD,Marevan 5mg tablets (Advanz Pharma),Warfarin sodium
+amp,4204911000001105,0208010K0BCAAA7,"Monoparin 1,000units/1ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,4527711000001101,0208010K0BCAGA2,"Monoparin 10,000units/10ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,4910911000001101,0208010K0BCAHAZ,"Monoparin 20,000units/20ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,4507911000001105,0208010K0BCAHBF,"Monoparin 25,000units/1ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,4528711000001100,0208010K0BCAIBC,"Monoparin 25,000units/5ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,7299811000001108,0208010K0BCAEAL,"Monoparin 5,000units/0.2ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,4000011000001107,0208010K0BCABA9,"Monoparin 5,000units/1ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,4909511000001103,0208010K0BCADA8,"Monoparin 5,000units/5ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium
+amp,4761711000001102,0208010N0BEAAAB,"Monoparin calcium 5,000units/0.2ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin calcium
+amp,4528211000001107,0208010K0BDACA6,"Multiparin 125,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium
+amp,4501011000001101,0208010K0BDABA5,"Multiparin 25,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium
+amp,4744311000001106,0208010K0BDAAA4,"Multiparin 5,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium
+amp,9383511000001106,0208010C0BBAAAA,Orgaran 750units/0.6ml solution for injection ampoules (Aspen Pharma Trading Ltd),Danaparoid sodium
+amp,16014911000001106,0208020I0AAAGAG,Pentosan polysulfate sodium 100mg capsules (Special Order),Pentosan polysulfate sodium
+amp,3780911000001106,0208020N0AAAAAA,Phenindione 10mg tablets (A A H Pharmaceuticals Ltd),Phenindione
+amp,3781211000001108,0208020N0AAAAAA,Phenindione 10mg tablets (Advanz Pharma),Phenindione
+amp,3781411000001107,0208020N0AAAAAA,Phenindione 10mg tablets (Alliance Healthcare (Distribution) Ltd),Phenindione
+amp,3782011000001106,0208020N0AAABAB,Phenindione 25mg tablets (A A H Pharmaceuticals Ltd),Phenindione
+amp,3782311000001109,0208020N0AAABAB,Phenindione 25mg tablets (Advanz Pharma),Phenindione
+amp,3782511000001103,0208020N0AAABAB,Phenindione 25mg tablets (Alliance Healthcare (Distribution) Ltd),Phenindione
+amp,3783211000001107,0208020N0AAACAC,Phenindione 50mg tablets (A A H Pharmaceuticals Ltd),Phenindione
+amp,3783611000001109,0208020N0AAACAC,Phenindione 50mg tablets (Advanz Pharma),Phenindione
+amp,3783811000001108,0208020N0AAACAC,Phenindione 50mg tablets (Alliance Healthcare (Distribution) Ltd),Phenindione
+amp,13505411000001109,0208020X0BBABAB,Pradaxa 110mg capsules (Boehringer Ingelheim Ltd),Dabigatran etexilate
+amp,19465811000001104,0208020X0BBACAC,Pradaxa 150mg capsules (Boehringer Ingelheim Ltd),Dabigatran etexilate
+amp,13504711000001102,0208020X0BBAAAA,Pradaxa 75mg capsules (Boehringer Ingelheim Ltd),Dabigatran etexilate
+amp,31065711000001108,0208040A0BBAAAA,Praxbind 2.5g/50ml solution for infusion vials (Boehringer Ingelheim Ltd),Idarucizumab
+amp,9672011000001107,0208020W0BDAAA0,ProTime 3 cuvettes (Instrumentation Laboratory (UK) Ltd),INR blood testing reagents
+amp,4399411000001106,0208030N0BBAAAA,Prosulf 1% solution for injection 5ml ampoules (Wockhardt UK Ltd),Protamine sulfate
+amp,4766611000001104,0208030N0AAABAB,Protamine sulfate 100mg/10ml solution for injection ampoules (A A H Pharmaceuticals Ltd),Protamine sulfate
+amp,11060911000001103,0208030N0AAABAB,Protamine sulfate 100mg/10ml solution for injection ampoules (Advanz Pharma),Protamine sulfate
+amp,4766811000001100,0208030N0AAABAB,Protamine sulfate 100mg/10ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),Protamine sulfate
+amp,4398711000001109,0208030N0AAAAAA,Protamine sulfate 50mg/5ml solution for injection ampoules (A A H Pharmaceuticals Ltd),Protamine sulfate
+amp,4399011000001102,0208030N0AAAAAA,Protamine sulfate 50mg/5ml solution for injection ampoules (Advanz Pharma),Protamine sulfate
+amp,12874311000001100,0208030N0AAAAAA,Protamine sulfate 50mg/5ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),Protamine sulfate
+amp,14772211000001107,0208030N0AAAAAA,Protamine sulfate 50mg/5ml solution for injection ampoules (Wockhardt UK Ltd),Protamine sulfate
+amp,7653411000001101,0208010ADBBAAAA,Refludan 50mg powder for solution for injection vials (Celgene Ltd),Lepirudin
+amp,738511000001103,0208020H0BBAAAA,Sinthrome 1mg tablets (Norgine Pharmaceuticals Ltd),Acenocoumarol
+amp,12773511000001105,0208020W0BEAAA0,SmartCheck INR testing strips (Alere Ltd),INR blood testing reagents
+amp,32688511000001100,0208010W0AAAQAQ,"Tinzaparin sodium 2,500units/0.25ml solution for injection pre-filled syringes (Alliance Healthcare (Distribution) Ltd)",Tinzaparin sodium
+amp,31515511000001101,0208010W0AAAQAQ,"Tinzaparin sodium 2,500units/0.25ml solution for injection pre-filled syringes (J M McGill Ltd)",Tinzaparin sodium
+amp,31222811000001108,0208010W0AAAQAQ,"Tinzaparin sodium 2,500units/0.25ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,32688711000001105,0208010W0AAALAL,"Tinzaparin sodium 3,500units/0.35ml solution for injection pre-filled syringes (Alliance Healthcare (Distribution) Ltd)",Tinzaparin sodium
+amp,31515811000001103,0208010W0AAALAL,"Tinzaparin sodium 3,500units/0.35ml solution for injection pre-filled syringes (J M McGill Ltd)",Tinzaparin sodium
+amp,31222411000001106,0208010W0AAALAL,"Tinzaparin sodium 3,500units/0.35ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,32688911000001107,0208010W0AAAMAM,"Tinzaparin sodium 4,500units/0.45ml solution for injection pre-filled syringes (Alliance Healthcare (Distribution) Ltd)",Tinzaparin sodium
+amp,31516911000001101,0208010W0AAAMAM,"Tinzaparin sodium 4,500units/0.45ml solution for injection pre-filled syringes (J M McGill Ltd)",Tinzaparin sodium
+amp,31221711000001107,0208010W0AAAMAM,"Tinzaparin sodium 4,500units/0.45ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium
+amp,22647611000001109,0208010E0BCABAD,Veletri 1.5mg powder for solution for infusion vials (Janssen-Cilag Ltd),Epoprostenol sodium
+amp,22647311000001104,0208010E0BCAAAC,Veletri 500microgram powder for solution for infusion vials (Janssen-Cilag Ltd),Epoprostenol sodium
+amp,12957311000001102,0208020V0AAARAR,Warfarin 1.5mg/5ml oral solution (Special Order),Warfarin sodium
+amp,12958011000001104,0208020V0AAATAT,Warfarin 100micrograms/5ml oral solution (Special Order),Warfarin sodium
+amp,8728011000001102,0208020V0AAAVAV,Warfarin 10mg/5ml oral solution (Special Order),Warfarin sodium
+amp,8728311000001104,0208020V0AAAVAV,Warfarin 10mg/5ml oral suspension (Special Order),Warfarin sodium
+amp,32742511000001102,0208020V0AABABA,Warfarin 1mg capsules (Special Order),Warfarin sodium
+amp,421411000001103,0208020V0AAAAAA,Warfarin 1mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium
+amp,19835411000001102,0208020V0AAAAAA,Warfarin 1mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Warfarin sodium
+amp,303111000001107,0208020V0AAAAAA,Warfarin 1mg tablets (Actavis UK Ltd),Warfarin sodium
+amp,739511000001109,0208020V0AAAAAA,Warfarin 1mg tablets (Alliance Healthcare (Distribution) Ltd),Warfarin sodium
+amp,9798311000001105,0208020V0AAAAAA,Warfarin 1mg tablets (Almus Pharmaceuticals Ltd),Warfarin sodium
+amp,10418211000001107,0208020V0AAAAAA,Warfarin 1mg tablets (Arrow Generics Ltd),Warfarin sodium
+amp,16071211000001106,0208020V0AAAAAA,Warfarin 1mg tablets (Bristol Laboratories Ltd),Warfarin sodium
+amp,28988911000001100,0208020V0AAAAAA,Warfarin 1mg tablets (Crescent Pharma Ltd),Warfarin sodium
+amp,22735311000001104,0208020V0AAAAAA,Warfarin 1mg tablets (DE Pharmaceuticals),Warfarin sodium
+amp,272711000001102,0208020V0AAAAAA,Warfarin 1mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium
+amp,524811000001109,0208020V0AAAAAA,Warfarin 1mg tablets (Kent Pharmaceuticals Ltd),Warfarin sodium
+amp,30945211000001105,0208020V0AAAAAA,Warfarin 1mg tablets (Mawdsley-Brooks & Company Ltd),Warfarin sodium
+amp,746411000001102,0208020V0AAAAAA,Warfarin 1mg tablets (Mylan),Warfarin sodium
+amp,17876711000001107,0208020V0AAAAAA,Warfarin 1mg tablets (Phoenix Healthcare Distribution Ltd),Warfarin sodium
+amp,321511000001106,0208020V0AAAAAA,Warfarin 1mg tablets (Sandoz Ltd),Warfarin sodium
+amp,34760111000001106,0208020V0AAAAAA,Warfarin 1mg tablets (Sun Pharmaceutical Industries Europe B.V.),Warfarin sodium
+amp,437711000001102,0208020V0AAAAAA,Warfarin 1mg tablets (Teva UK Ltd),Warfarin sodium
+amp,590411000001106,0208020V0AAAAAA,Warfarin 1mg tablets (The Boots Company Plc),Warfarin sodium
+amp,36843011000001100,0208020V0AAAAAA,Warfarin 1mg tablets (Torrent Pharma (UK) Ltd),Warfarin sodium
+amp,21919511000001107,0208020V0AAAAAA,Warfarin 1mg tablets (Waymade Healthcare Plc),Warfarin sodium
+amp,10138911000001108,0208020V0AAAAAA,Warfarin 1mg tablets (Zentiva),Warfarin sodium
+amp,8729811000001101,0208020V0AAANAN,Warfarin 1mg/5ml oral solution (Special Order),Warfarin sodium
+amp,8730111000001100,0208020V0AAANAN,Warfarin 1mg/5ml oral suspension (Special Order),Warfarin sodium
+amp,20367411000001100,0208020V0AABBBB,Warfarin 1mg/ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Warfarin sodium
+amp,18723611000001101,0208020V0AABBBB,Warfarin 1mg/ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Warfarin sodium
+amp,22736911000001105,0208020V0AABBBB,Warfarin 1mg/ml oral suspension sugar free (DE Pharmaceuticals),Warfarin sodium
+amp,18288311000001103,0208020V0AABBBB,Warfarin 1mg/ml oral suspension sugar free (Rosemont Pharmaceuticals Ltd),Warfarin sodium
+amp,21919111000001103,0208020V0AABBBB,Warfarin 1mg/ml oral suspension sugar free (Waymade Healthcare Plc),Warfarin sodium
+amp,12958511000001107,0208020V0AAAUAU,Warfarin 2.5mg/5ml oral solution (Special Order),Warfarin sodium
+amp,12959011000001109,0208020V0AAAKAK,Warfarin 25mg/5ml oral solution (Special Order),Warfarin sodium
+amp,8731411000001101,0208020V0AAAJAJ,Warfarin 2mg/5ml oral solution (Special Order),Warfarin sodium
+amp,8733211000001101,0208020V0AAAJAJ,Warfarin 2mg/5ml oral suspension (Special Order),Warfarin sodium
+amp,32742211000001100,0208020V0AABCBC,Warfarin 3mg capsules (Special Order),Warfarin sodium
+amp,456711000001104,0208020V0AAABAB,Warfarin 3mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium
+amp,19835611000001104,0208020V0AAABAB,Warfarin 3mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Warfarin sodium
+amp,555911000001104,0208020V0AAABAB,Warfarin 3mg tablets (Actavis UK Ltd),Warfarin sodium
+amp,584211000001100,0208020V0AAABAB,Warfarin 3mg tablets (Alliance Healthcare (Distribution) Ltd),Warfarin sodium
+amp,9798011000001107,0208020V0AAABAB,Warfarin 3mg tablets (Almus Pharmaceuticals Ltd),Warfarin sodium
+amp,10418411000001106,0208020V0AAABAB,Warfarin 3mg tablets (Arrow Generics Ltd),Warfarin sodium
+amp,16071411000001105,0208020V0AAABAB,Warfarin 3mg tablets (Bristol Laboratories Ltd),Warfarin sodium
+amp,28989111000001105,0208020V0AAABAB,Warfarin 3mg tablets (Crescent Pharma Ltd),Warfarin sodium
+amp,22735611000001109,0208020V0AAABAB,Warfarin 3mg tablets (DE Pharmaceuticals),Warfarin sodium
+amp,927211000001109,0208020V0AAABAB,Warfarin 3mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium
+amp,772211000001101,0208020V0AAABAB,Warfarin 3mg tablets (Kent Pharmaceuticals Ltd),Warfarin sodium
+amp,30945411000001109,0208020V0AAABAB,Warfarin 3mg tablets (Mawdsley-Brooks & Company Ltd),Warfarin sodium
+amp,347911000001109,0208020V0AAABAB,Warfarin 3mg tablets (Mylan),Warfarin sodium
+amp,17876911000001109,0208020V0AAABAB,Warfarin 3mg tablets (Phoenix Healthcare Distribution Ltd),Warfarin sodium
+amp,550411000001100,0208020V0AAABAB,Warfarin 3mg tablets (Sandoz Ltd),Warfarin sodium
+amp,34760411000001101,0208020V0AAABAB,Warfarin 3mg tablets (Sun Pharmaceutical Industries Europe B.V.),Warfarin sodium
+amp,508311000001104,0208020V0AAABAB,Warfarin 3mg tablets (Teva UK Ltd),Warfarin sodium
+amp,473111000001108,0208020V0AAABAB,Warfarin 3mg tablets (The Boots Company Plc),Warfarin sodium
+amp,36844011000001103,0208020V0AAABAB,Warfarin 3mg tablets (Torrent Pharma (UK) Ltd),Warfarin sodium
+amp,21919811000001105,0208020V0AAABAB,Warfarin 3mg tablets (Waymade Healthcare Plc),Warfarin sodium
+amp,10139111000001103,0208020V0AAABAB,Warfarin 3mg tablets (Zentiva),Warfarin sodium
+amp,8728611000001109,0208020V0AAAMAM,Warfarin 3mg/5ml oral solution (Special Order),Warfarin sodium
+amp,8729111000001108,0208020V0AAAMAM,Warfarin 3mg/5ml oral suspension (Special Order),Warfarin sodium
+amp,12959411000001100,0208020V0AAAPAP,Warfarin 4.16mg/5ml oral solution (Special Order),Warfarin sodium
+amp,12960011000001105,0208020V0AAAWAW,Warfarin 4mg/5ml oral solution (Special Order),Warfarin sodium
+amp,3659711000001104,0208020V0AAASAS,Warfarin 500microgram tablets (A A H Pharmaceuticals Ltd),Warfarin sodium
+amp,10305211000001109,0208020V0AAASAS,Warfarin 500microgram tablets (Actavis UK Ltd),Warfarin sodium
+amp,20538311000001102,0208020V0AAASAS,Warfarin 500microgram tablets (Advanz Pharma),Warfarin sodium
+amp,395111000001106,0208020V0AAASAS,Warfarin 500microgram tablets (Alliance Healthcare (Distribution) Ltd),Warfarin sodium
+amp,10417011000001103,0208020V0AAASAS,Warfarin 500microgram tablets (Arrow Generics Ltd),Warfarin sodium
+amp,22736711000001108,0208020V0AAASAS,Warfarin 500microgram tablets (DE Pharmaceuticals),Warfarin sodium
+amp,622211000001107,0208020V0AAASAS,Warfarin 500microgram tablets (Kent Pharmaceuticals Ltd),Warfarin sodium
+amp,37272811000001105,0208020V0AAASAS,Warfarin 500microgram tablets (Mawdsley-Brooks & Company Ltd),Warfarin sodium
+amp,17876511000001102,0208020V0AAASAS,Warfarin 500microgram tablets (Phoenix Healthcare Distribution Ltd),Warfarin sodium
+amp,15202611000001100,0208020V0AAASAS,Warfarin 500microgram tablets (Sigma Pharmaceuticals Plc),Warfarin sodium
+amp,34759911000001108,0208020V0AAASAS,Warfarin 500microgram tablets (Sun Pharmaceutical Industries Europe B.V.),Warfarin sodium
+amp,21919311000001101,0208020V0AAASAS,Warfarin 500microgram tablets (Waymade Healthcare Plc),Warfarin sodium
+amp,10733911000001106,0208020V0AAASAS,Warfarin 500microgram tablets (Zentiva),Warfarin sodium
+amp,12961311000001103,0208020V0AAAXAX,Warfarin 500micrograms/5ml oral solution (Special Order),Warfarin sodium
+amp,32741911000001103,0208020V0AABDBD,Warfarin 5mg capsules (Special Order),Warfarin sodium
+amp,751611000001108,0208020V0AAADAD,Warfarin 5mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium
+amp,19835811000001100,0208020V0AAADAD,Warfarin 5mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Warfarin sodium
+amp,642911000001101,0208020V0AAADAD,Warfarin 5mg tablets (Actavis UK Ltd),Warfarin sodium
+amp,883011000001107,0208020V0AAADAD,Warfarin 5mg tablets (Alliance Healthcare (Distribution) Ltd),Warfarin sodium
+amp,9797411000001102,0208020V0AAADAD,Warfarin 5mg tablets (Almus Pharmaceuticals Ltd),Warfarin sodium
+amp,10418611000001109,0208020V0AAADAD,Warfarin 5mg tablets (Arrow Generics Ltd),Warfarin sodium
+amp,16071611000001108,0208020V0AAADAD,Warfarin 5mg tablets (Bristol Laboratories Ltd),Warfarin sodium
+amp,28989311000001107,0208020V0AAADAD,Warfarin 5mg tablets (Crescent Pharma Ltd),Warfarin sodium
+amp,22736411000001102,0208020V0AAADAD,Warfarin 5mg tablets (DE Pharmaceuticals),Warfarin sodium
+amp,729811000001109,0208020V0AAADAD,Warfarin 5mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium
+amp,36911000001105,0208020V0AAADAD,Warfarin 5mg tablets (Kent Pharmaceuticals Ltd),Warfarin sodium
+amp,30945711000001103,0208020V0AAADAD,Warfarin 5mg tablets (Mawdsley-Brooks & Company Ltd),Warfarin sodium
+amp,727111000001108,0208020V0AAADAD,Warfarin 5mg tablets (Mylan),Warfarin sodium
+amp,17877111000001109,0208020V0AAADAD,Warfarin 5mg tablets (Phoenix Healthcare Distribution Ltd),Warfarin sodium
+amp,919811000001107,0208020V0AAADAD,Warfarin 5mg tablets (Sandoz Ltd),Warfarin sodium
+amp,34760611000001103,0208020V0AAADAD,Warfarin 5mg tablets (Sun Pharmaceutical Industries Europe B.V.),Warfarin sodium
+amp,617811000001100,0208020V0AAADAD,Warfarin 5mg tablets (Teva UK Ltd),Warfarin sodium
+amp,504911000001105,0208020V0AAADAD,Warfarin 5mg tablets (The Boots Company Plc),Warfarin sodium
+amp,36844311000001100,0208020V0AAADAD,Warfarin 5mg tablets (Torrent Pharma (UK) Ltd),Warfarin sodium
+amp,21920111000001102,0208020V0AAADAD,Warfarin 5mg tablets (Waymade Healthcare Plc),Warfarin sodium
+amp,10139311000001101,0208020V0AAADAD,Warfarin 5mg tablets (Zentiva),Warfarin sodium
+amp,8730911000001102,0208020V0AAAIAI,Warfarin 5mg/5ml oral solution (Special Order),Warfarin sodium
+amp,8732411000001106,0208020V0AAAIAI,Warfarin 5mg/5ml oral suspension (Special Order),Warfarin sodium
+amp,14237311000001106,0208020Y0BBAAAA,Xarelto 10mg tablets (Bayer Plc),Rivaroxaban
+amp,34793111000001102,0208020Y0BBAEAE,Xarelto 15mg / 20mg treatment initiation pack (Bayer Plc),Rivaroxaban
+amp,19840811000001107,0208020Y0BBABAB,Xarelto 15mg tablets (Bayer Plc),Rivaroxaban
+amp,27160311000001106,0208020Y0BBADAD,Xarelto 2.5mg tablets (Bayer Plc),Rivaroxaban
+amp,19841411000001101,0208020Y0BBACAC,Xarelto 20mg tablets (Bayer Plc),Rivaroxaban
+amp,7539311000001100,0208010ACBBAEAE,"Zibor 10,000units/0.4ml solution for injection pre-filled syringes (Archimedes Pharma UK Ltd)",Bemiparin sodium
+amp,7533911000001102,0208010ACBBABAB,"Zibor 2,500units/0.2ml solution for injection pre-filled syringes (Archimedes Pharma UK Ltd)",Bemiparin sodium
+amp,7534511000001107,0208010ACBBACAC,"Zibor 3,500units/0.2ml solution for injection pre-filled syringes (Archimedes Pharma UK Ltd)",Bemiparin sodium
+amp,7535111000001104,0208010ACBBADAD,"Zibor 5,000units/0.2ml solution for injection pre-filled syringes (Archimedes Pharma UK Ltd)",Bemiparin sodium
+amp,7538111000001109,0208010ACBBAAAA,"Zibor 7,500units/0.3ml solution for injection pre-filled syringes (Archimedes Pharma UK Ltd)",Bemiparin sodium
+vmp,319740004,0208020H0AAAAAA,Acenocoumarol 1mg tablets,Acenocoumarol
+vmp,703907006,0208020Z0AAAAAA,Apixaban 2.5mg tablets,Apixaban
+vmp,703908001,0208020Z0AAABAB,Apixaban 5mg tablets,Apixaban
+vmp,7538811000001102,0208010ACAAAEAE,"Bemiparin sodium 10,000units/0.4ml solution for injection pre-filled syringes",Bemiparin sodium
+vmp,35909811000001105,0208010ACAAABAB,"Bemiparin sodium 2,500units/0.2ml solution for injection pre-filled syringes",Bemiparin sodium
+vmp,35909911000001100,0208010ACAAACAC,"Bemiparin sodium 3,500units/0.2ml solution for injection pre-filled syringes",Bemiparin sodium
+vmp,38894411000001108,0208010ACAAADAD,"Bemiparin sodium 5,000units/0.2ml solution for injection pre-filled syringes",Bemiparin sodium
+vmp,7537811000001101,0208010ACAAAAAA,"Bemiparin sodium 7,500units/0.3ml solution for injection pre-filled syringes",Bemiparin sodium
+vmp,36134911000001109,0208010B0AAAAAA,"Certoparin sodium 3,000units/0.3ml solution for injection pre-filled syringes",Certoparin sodium sodium
+vmp,9055711000001109,020802000AAAAAA,Coumarin 100mg capsules,Other oral anticoagulant preparations
+vmp,13532811000001109,0208020X0AAABAB,Dabigatran etexilate 110mg capsules,Dabigatran etexilate
+vmp,19469811000001101,0208020X0AAACAC,Dabigatran etexilate 150mg capsules,Dabigatran etexilate
+vmp,13532911000001104,0208020X0AAAAAA,Dabigatran etexilate 75mg capsules,Dabigatran etexilate
+vmp,37084311000001106,0208010L0AAAFAF,"Dalteparin sodium 10,000units/0.4ml solution for injection pre-filled syringes",Dalteparin sodium
+vmp,36092911000001101,0208010L0AAACAC,"Dalteparin sodium 10,000units/1ml solution for injection ampoules",Dalteparin sodium
+vmp,36093011000001109,0208010L0AAAJAJ,"Dalteparin sodium 10,000units/1ml solution for injection pre-filled syringes",Dalteparin sodium
+vmp,36093111000001105,0208010L0AAADAD,"Dalteparin sodium 10,000units/4ml solution for injection ampoules",Dalteparin sodium
+vmp,36093311000001107,0208010L0AAAEAE,"Dalteparin sodium 100,000units/4ml solution for injection vials",Dalteparin sodium
+vmp,36563811000001103,0208010L0AAAGAG,"Dalteparin sodium 12,500units/0.5ml solution for injection pre-filled syringes",Dalteparin sodium
+vmp,36564211000001101,0208010L0AAAHAH,"Dalteparin sodium 15,000units/0.6ml solution for injection pre-filled syringes",Dalteparin sodium
+vmp,37084411000001104,0208010L0AAAIAI,"Dalteparin sodium 18,000units/0.72ml solution for injection pre-filled syringes",Dalteparin sodium
+vmp,37084511000001100,0208010L0AAAAAA,"Dalteparin sodium 2,500units/0.2ml solution for injection pre-filled syringes",Dalteparin sodium
+vmp,36566011000001101,0208010L0AAABAB,"Dalteparin sodium 5,000units/0.2ml solution for injection pre-filled syringes",Dalteparin sodium
+vmp,4865111000001103,0208010L0AAAKAK,"Dalteparin sodium 7,500units/0.3ml solution for injection pre-filled syringes",Dalteparin sodium
+vmp,36093411000001100,0208010C0AAAAAA,Danaparoid sodium 750units/0.6ml solution for injection ampoules,Danaparoid sodium
+vmp,29903211000001100,0208020AAAAAAAA,Edoxaban 15mg tablets,Edoxaban
+vmp,29903311000001108,0208020AAAAABAB,Edoxaban 30mg tablets,Edoxaban
+vmp,29903411000001101,0208020AAAAACAC,Edoxaban 60mg tablets,Edoxaban
+vmp,36564011000001106,0208010D0AAAEAE,Enoxaparin sodium 100mg/1ml solution for injection pre-filled syringes,Enoxaparin
+vmp,36563911000001108,0208010D0AAAFAF,Enoxaparin sodium 120mg/0.8ml solution for injection pre-filled syringes,Enoxaparin
+vmp,38895211000001105,0208010D0AAAGAG,Enoxaparin sodium 150mg/1ml solution for injection pre-filled syringes,Enoxaparin
+vmp,38896011000001109,0208010D0AAAAAA,Enoxaparin sodium 20mg/0.2ml solution for injection pre-filled syringes,Enoxaparin
+vmp,11509311000001109,0208010D0AAAHAH,Enoxaparin sodium 300mg/3ml solution for injection vials,Enoxaparin
+vmp,36565711000001107,0208010D0AAABAB,Enoxaparin sodium 40mg/0.4ml solution for injection pre-filled syringes,Enoxaparin
+vmp,38895011000001100,0208010D0AAACAC,Enoxaparin sodium 60mg/0.6ml solution for injection pre-filled syringes,Enoxaparin
+vmp,38895111000001104,0208010D0AAADAD,Enoxaparin sodium 80mg/0.8ml solution for injection pre-filled syringes,Enoxaparin
+vmp,22648311000001103,0208010E0AAADAD,Epoprostenol 1.5mg powder (pH12) for solution for infusion vials,Epoprostenol sodium
+vmp,36063811000001101,0208010E0AAABAB,Epoprostenol 1.5mg powder and solvent (pH10.5) for solution for infusion vials,Epoprostenol sodium
+vmp,33598111000001109,0208010E0AAAEAE,Epoprostenol 1.5mg powder and solvent (pH12) for solution for infusion vials,Epoprostenol sodium
+vmp,22648411000001105,0208010E0AAACAC,Epoprostenol 500microgram powder (pH12) for solution for infusion vials,Epoprostenol sodium
+vmp,36063911000001106,0208010E0AAAAAA,Epoprostenol 500microgram powder and solvent (pH10.5) for solution for infusion vials,Epoprostenol sodium
+vmp,33598211000001103,0208010E0AAAFAF,Epoprostenol 500microgram powder and solvent (pH12) for solution for infusion vials,Epoprostenol sodium
+vmp,13566311000001106,0208010ABAAAEAE,Fondaparinux sodium 1.5mg/0.3ml solution for injection pre-filled syringes,Fondaparinux sodium
+vmp,36060411000001106,0208010ABAAADAD,Fondaparinux sodium 10mg/0.8ml solution for injection pre-filled syringes,Fondaparinux sodium
+vmp,36060511000001105,0208010ABAAAAAA,Fondaparinux sodium 2.5mg/0.5ml solution for injection pre-filled syringes,Fondaparinux sodium
+vmp,36060611000001109,0208010ABAAABAB,Fondaparinux sodium 5mg/0.4ml solution for injection pre-filled syringes,Fondaparinux sodium
+vmp,36060711000001100,0208010ABAAACAC,Fondaparinux sodium 7.5mg/0.6ml solution for injection pre-filled syringes,Fondaparinux sodium
+vmp,36053911000001102,0208010N0AAAHAH,"Heparin calcium 12,500units/0.5ml solution for injection pre-filled syringes",Heparin calcium
+vmp,36054011000001104,0208010N0AAABAB,"Heparin calcium 5,000units/0.2ml solution for injection ampoules",Heparin calcium
+vmp,36054111000001103,0208010N0AAAFAF,"Heparin calcium 5,000units/0.2ml solution for injection pre-filled syringes",Heparin calcium
+vmp,36054211000001109,0208010K0AAA7A7,"Heparin sodium 1,000units/1ml solution for injection ampoules",Heparin sodium
+vmp,36054311000001101,0208010K0AAA2A2,"Heparin sodium 10,000units/10ml solution for injection ampoules",Heparin sodium
+vmp,18684211000001103,0208010K0AABJBJ,Heparin sodium 100units/1ml solution for injection ampoules,Heparin sodium
+vmp,36054411000001108,0208010K0AAA6A6,"Heparin sodium 125,000units/5ml solution for injection vials",Heparin sodium
+vmp,36054511000001107,0208010K0AAAZAZ,"Heparin sodium 20,000units/20ml solution for injection ampoules",Heparin sodium
+vmp,36054611000001106,0208010P0AAABAB,Heparin sodium 200units/2ml patency solution ampoules,Heparin flushes
+vmp,36054711000001102,0208010K0AABFBF,"Heparin sodium 25,000units/1ml solution for injection ampoules",Heparin sodium
+vmp,36054811000001105,0208010K0AABCBC,"Heparin sodium 25,000units/5ml solution for injection ampoules",Heparin sodium
+vmp,36054911000001100,0208010K0AAA5A5,"Heparin sodium 25,000units/5ml solution for injection vials",Heparin sodium
+vmp,36055011000001100,0208010K0AAALAL,"Heparin sodium 5,000units/0.2ml solution for injection ampoules",Heparin sodium
+vmp,36055111000001104,0208010K0AAA9A9,"Heparin sodium 5,000units/1ml solution for injection ampoules",Heparin sodium
+vmp,36055211000001105,0208010K0AAA8A8,"Heparin sodium 5,000units/5ml solution for injection ampoules",Heparin sodium
+vmp,36055311000001102,0208010K0AAA4A4,"Heparin sodium 5,000units/5ml solution for injection vials",Heparin sodium
+vmp,4031311000001105,0208010P0AAADAD,Heparin sodium 50units/5ml patency solution ampoules,Heparin flushes
+vmp,31141811000001100,0208040A0AAAAAA,Idarucizumab 2.5g/50ml solution for infusion vials,Idarucizumab
+vmp,7653211000001100,0208010ADAAAAAA,Lepirudin 50mg powder for solution for injection vials,Lepirudin
+vmp,374449003,0208020I0AAAGAG,Pentosan polysulfate sodium 100mg capsules,Pentosan polysulfate sodium
+vmp,10475011000001103,0208020I0AAABAB,Pentosan polysulfate sodium 50mg capsules,Pentosan polysulfate sodium
+vmp,319745009,0208020N0AAAAAA,Phenindione 10mg tablets,Phenindione
+vmp,319746005,0208020N0AAABAB,Phenindione 25mg tablets,Phenindione
+vmp,319747001,0208020N0AAACAC,Phenindione 50mg tablets,Phenindione
+vmp,24351511000001102,0208020S0AAAAAA,Phenprocoumon 3mg tablets,Phenprocoumon
+vmp,35933011000001108,0208030N0AAABAB,Protamine sulfate 100mg/10ml solution for injection ampoules,Protamine sulfate
+vmp,35933111000001109,0208030N0AAAAAA,Protamine sulfate 50mg/5ml solution for injection ampoules,Protamine sulfate
+vmp,35934311000001108,0208010AAAAAAAA,"Reviparin sodium 1,432units/0.25ml solution for injection pre-filled syringes",Reviparin sodium
+vmp,14254711000001104,0208020Y0AAAAAA,Rivaroxaban 10mg tablets,Rivaroxaban
+vmp,19842111000001101,0208020Y0AAABAB,Rivaroxaban 15mg tablets,Rivaroxaban
+vmp,34819111000001102,0208020Y0AAAEAE,Rivaroxaban 15mg tablets and Rivaroxaban 20mg tablets,Rivaroxaban
+vmp,27810711000001104,0208020Y0AAADAD,Rivaroxaban 2.5mg tablets,Rivaroxaban
+vmp,19842211000001107,0208020Y0AAACAC,Rivaroxaban 20mg tablets,Rivaroxaban
+vmp,35918811000001101,0208010W0AAAKAK,"Tinzaparin sodium 10,000units/0.5ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,28566111000001107,0208010W0AAASAS,"Tinzaparin sodium 12,000units/0.6ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,35918911000001106,0208010W0AAAIAI,"Tinzaparin sodium 14,000units/0.7ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,28566311000001109,0208010W0AAARAR,"Tinzaparin sodium 16,000units/0.8ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,35919011000001102,0208010W0AAAJAJ,"Tinzaparin sodium 18,000units/0.9ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,35919111000001101,0208010W0AAAQAQ,"Tinzaparin sodium 2,500units/0.25ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,35919211000001107,0208010W0AAANAN,"Tinzaparin sodium 20,000units/2ml solution for injection vials",Tinzaparin sodium
+vmp,35919311000001104,0208010W0AAALAL,"Tinzaparin sodium 3,500units/0.35ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,35919411000001106,0208010W0AAAMAM,"Tinzaparin sodium 4,500units/0.45ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,35919511000001105,0208010W0AAAFAF,"Tinzaparin sodium 40,000units/2ml solution for injection vials",Tinzaparin sodium
+vmp,28566511000001103,0208010W0AAATAT,"Tinzaparin sodium 8,000units/0.4ml solution for injection pre-filled syringes",Tinzaparin sodium
+vmp,13016611000001102,0208020V0AAARAR,Warfarin 1.5mg/5ml oral solution,Warfarin sodium
+vmp,13016711000001106,0208020V0AAATAT,Warfarin 100micrograms/5ml oral solution,Warfarin sodium
+vmp,8797911000001107,0208020V0AAAVAV,Warfarin 10mg/5ml oral solution,Warfarin sodium
+vmp,8798011000001109,0208020V0AAAVAV,Warfarin 10mg/5ml oral suspension,Warfarin sodium
+vmp,32751111000001103,0208020V0AABABA,Warfarin 1mg capsules,Warfarin sodium
+vmp,319733000,0208020V0AAAAAA,Warfarin 1mg tablets,Warfarin sodium
+vmp,8798111000001105,0208020V0AAANAN,Warfarin 1mg/5ml oral solution,Warfarin sodium
+vmp,8798211000001104,0208020V0AAANAN,Warfarin 1mg/5ml oral suspension,Warfarin sodium
+vmp,18290011000001102,0208020V0AABBBB,Warfarin 1mg/ml oral suspension sugar free,Warfarin sodium
+vmp,13016811000001103,0208020V0AAAUAU,Warfarin 2.5mg/5ml oral solution,Warfarin sodium
+vmp,13016911000001108,0208020V0AAAKAK,Warfarin 25mg/5ml oral solution,Warfarin sodium
+vmp,8798311000001107,0208020V0AAAJAJ,Warfarin 2mg/5ml oral solution,Warfarin sodium
+vmp,8798411000001100,0208020V0AAAJAJ,Warfarin 2mg/5ml oral suspension,Warfarin sodium
+vmp,32751211000001109,0208020V0AABCBC,Warfarin 3mg capsules,Warfarin sodium
+vmp,319734006,0208020V0AAABAB,Warfarin 3mg tablets,Warfarin sodium
+vmp,8798511000001101,0208020V0AAAMAM,Warfarin 3mg/5ml oral solution,Warfarin sodium
+vmp,8798611000001102,0208020V0AAAMAM,Warfarin 3mg/5ml oral suspension,Warfarin sodium
+vmp,13017011000001107,0208020V0AAAPAP,Warfarin 4.16mg/5ml oral solution,Warfarin sodium
+vmp,375374009,0208020V0AAACAC,Warfarin 4mg tablets,Warfarin sodium
+vmp,13017111000001108,0208020V0AAAWAW,Warfarin 4mg/5ml oral solution,Warfarin sodium
+vmp,319736008,0208020V0AAASAS,Warfarin 500microgram tablets,Warfarin sodium
+vmp,13017211000001102,0208020V0AAAXAX,Warfarin 500micrograms/5ml oral solution,Warfarin sodium
+vmp,32751311000001101,0208020V0AABDBD,Warfarin 5mg capsules,Warfarin sodium
+vmp,319735007,0208020V0AAADAD,Warfarin 5mg tablets,Warfarin sodium
+vmp,8798711000001106,0208020V0AAAIAI,Warfarin 5mg/5ml oral solution,Warfarin sodium
+vmp,8798811000001103,0208020V0AAAIAI,Warfarin 5mg/5ml oral suspension,Warfarin sodium
