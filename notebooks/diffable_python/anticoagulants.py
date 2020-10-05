@@ -79,6 +79,8 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
 parenteral_anticoagulant_codelist.reset_index()
 
+parenteral_anticoagulant_codelist.to_csv(os.path.join('..','data','parenteral_anticoagulant_codelist.csv')) 
+
 # ## Oral Anticoagulants  <a id='oac'></a>
 #
 # Jump to:
@@ -122,15 +124,15 @@ oral_anticoagulant_codelist
 #    - [DOACs](#doac) 
 
 # +
-
-wafarin_codelist = complete_anticoagulant_codelist.loc[complete_anticoagulant_codelist["bnf_code"].str[:9]=="0208020V0"]
-
+warfarin_codelist = complete_anticoagulant_codelist.loc[complete_anticoagulant_codelist["bnf_code"].str[:9]=="0208020V0"]
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
-wafarin_codelist.reset_index(drop=True)
+warfarin_codelist.reset_index(drop=True)
 
 
 # -
+
+warfarin_codelist.to_csv(os.path.join('..','data','warfarin_codelist.csv')) 
 
 # ## DOACs  <a id='doac'></a>
 #
@@ -141,8 +143,9 @@ wafarin_codelist.reset_index(drop=True)
 #    - [Warfarin](#warf) 
 #    - DOACs (this section)
 
-# +
 doac_codelist = complete_anticoagulant_codelist.loc[complete_anticoagulant_codelist["bnf_code"].str[:9].isin(["0208020Z0","0208020X0","0208020AA","0208020Y0"])]
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
 doac_codelist.reset_index(drop=True)
+
+doac_codelist.to_csv(os.path.join('..','data','doac_codelist.csv')) 
